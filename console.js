@@ -6,3 +6,6 @@ function main(){
     console.log(1);
 }
 main()
+function test(){
+    console.log(2);
+}
